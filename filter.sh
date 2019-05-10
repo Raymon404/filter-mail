@@ -1,5 +1,5 @@
 #!/bin/bash --utf8
-# powered by Zsecc0de.id Crew | plase not recode for script
+# powered by Ray404| plase not recode for script
 RED='\033[0;31m'
 CYAN='\033[0;36m'
 WHITE=$(tput setaf 7) #PUTIH
@@ -20,7 +20,7 @@ fi
 banner()
 {
 printf "
-\tFILTER MAIL BY WIDHISEC
+\tFILTER MAIL BY Ray404
 
 "
 }
